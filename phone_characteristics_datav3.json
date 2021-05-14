@@ -1,0 +1,31 @@
+{
+	"samsung galaxy A71":{
+		"camera":"64MP",
+		"RAM":"8GO"
+	},
+
+	"samsung galaxy A51":{
+		"camera":"48MP",
+		"RAM":"6GO"
+	},
+
+	"samsung galaxy A31":{
+		"camera":"32MP",
+		"RAM":"4GO"
+	},
+
+	"samsung galaxy A21":{
+		"camera":"16MP",
+		"RAM":"3GO"
+	},
+
+	"samsung galaxy A11":{
+		"camera":"5MP",
+		"RAM":"2GO"
+	},
+
+	"samsung galaxy A10":{
+		"camera":"3MP",
+		"RAM":"1GO"
+	}
+}
