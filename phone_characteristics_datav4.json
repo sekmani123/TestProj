@@ -1,0 +1,36 @@
+[
+ 	{
+		"name":"samsung galaxy A71",
+		"camera1":64,
+		"RAM":8
+	},
+
+        {
+		"name":"samsung galaxy A51",
+		"camera1":48,
+		"RAM":6
+	},
+
+        {
+		"name":"samsung galaxy A31",
+		"camera1":32,
+		"RAM":4
+	},
+        {
+		"name":"samsung galaxy A21",
+		"camera1":16,
+		"RAM":3
+	},
+
+        {
+		"name":"samsung galaxy A11",
+		"camera1":5,
+		"RAM":2
+	},
+
+        {
+		"name":"samsung galaxy A10",
+		"camera1":3,
+		"RAM":1
+	}
+]
