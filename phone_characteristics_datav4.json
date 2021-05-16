@@ -38,6 +38,12 @@
 		"name":"80TV (LENOVO)",
 		"camera1":2,
 		"RAM":12
+	},
+
+ 	{
+		"name":"samsung SM-A715F",
+		"camera1":64,
+		"RAM":8
 	}
 
 ]
