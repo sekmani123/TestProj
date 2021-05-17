@@ -64,6 +64,12 @@
 		"name":"Hotel name4",
 		"description":"Hotel name4 description text here",
 		"PicUrl":"https://www.europapark.de/sites/default/files/styles/mobile/public/media_image/2020-11/kronasar_aussenansicht_daemmerung_europa-park.jpg?itok=e2xnV2pQ"
+	},
+	
+	{
+		"name":"Mahdia LI",
+		"description":"Mahdia LI description text here",
+		"PicUrl":"https://www.google.com/"
 	}
 
 ]
